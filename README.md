@@ -16,9 +16,11 @@ This project walks through the full HealthKit integration pattern: requesting se
 - **Read + Write in one example** — step count read and water intake write, side by side
 - **`@Observable` pattern** — Swift 5.9 observation macro, not the older `ObservableObject`
 
-## 📺 From the NoahDoesCoding YouTube Channel
+## 📺 Watch on YouTube
 
-This project is a companion to a tutorial on [@NoahDoesCoding97](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/3VMSb6oB7AU)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
@@ -63,4 +65,4 @@ HealthKit is not available on the Simulator or iPad.
 - iOS 17+
 - Real iPhone required (HealthKit not available in Simulator)
 
-📺 [Watch the guide on YouTube](https://www.youtube.com/@NoahDoesCoding97)
+📺 [Watch the guide on YouTube](https://youtu.be/3VMSb6oB7AU)
